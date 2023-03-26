@@ -10,7 +10,7 @@ It is a challenge from frontend mentor[](https://www.frontendmentor.io) to showc
 
 ### Links
 
-- Live Site URL: [Add live site URL here]()
+- Live Site : [URL](https://mohamedaliyarar.github.io/QR_Code_Component/)
 
 ## My process
 
