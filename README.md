@@ -46,6 +46,6 @@ If you want more help with writing markdown, I'd recommend checking out [The Mar
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MohamedAliyarAR)
+- Frontend Mentor - [@MohamedAliyarAR](https://www.frontendmentor.io/profile/MohamedAliyarAR)
 
 
