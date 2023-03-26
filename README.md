@@ -39,7 +39,7 @@ If you want more help with writing markdown, I'd recommend checking out [The Mar
 
 ### Useful resources
 
-- [Example resource 1](https://dev.to/sarveshh/mastering-css-flexbox-from-basics-to-advanced-techniques-1foe) - This helped me to learn about the flex property I recomment to go through it .
+- [dev.to](https://dev.to/sarveshh/mastering-css-flexbox-from-basics-to-advanced-techniques-1foe) - This helped me to learn about the flex property I recomment to go through it .
 
 
 
